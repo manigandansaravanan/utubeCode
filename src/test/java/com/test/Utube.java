@@ -72,7 +72,11 @@ public static void main(String[] args) throws IOException, InterruptedException 
 	WebElement cmdIt = driver.findElement(By.id("placeholder-area"));
 	cmdIt.click();
 	
+
 	System.out.println("this line from rohit");
+
+	System.out.println("king kohli sambavam tody");
+
 	
 	driver.close();
 	
